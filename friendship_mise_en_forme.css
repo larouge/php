@@ -1,0 +1,41 @@
+body
+{
+	 background: url("images/image_fond2.jpg") fixed no-repeat;
+	 background-position : center center;
+	 background-color: black;
+}
+
+#logo
+{
+	color : white;
+	margin-left: 6%;
+	background: rgba(0,0,0,0.6);
+	width : 10%;
+	text-align: center;
+}
+
+header
+{
+	display: flex;
+}
+
+#login
+{
+	color : white;
+	padding : auto;
+	vertical-align: center;
+}
+
+form
+{
+	display: flex;
+	background : rgba(0,0,0,0.6);
+	width : 200px;
+	height: 300px;
+	margin : auto;
+}
+
+form p
+{
+	margin : auto;
+}
